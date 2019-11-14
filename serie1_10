@@ -1,0 +1,6 @@
+def serie(f):
+    if f < 11:
+        print(f) 
+        serie(f+1)
+        
+serie(1)
