@@ -1,3 +1,4 @@
+#Serie 1 al 10 sin ciclo
 def serie(f):
     if f < 11:
         print(f) 
