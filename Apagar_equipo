@@ -1,0 +1,3 @@
+#Apagar Equipo
+import subprocess
+subprocess.call(['poweroff'])
