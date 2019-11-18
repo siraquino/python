@@ -1,0 +1,7 @@
+if False == 0:
+    print("False tiene el valor de cero [0]")
+if True == 1:
+    print("True tiene el valor de uno [1]")
+if True > False:
+    print("True es mayor que False")
+ 
