@@ -1,7 +1,5 @@
-"""
-True tiene valor 1
-False tiene valor 0
-"""
+#True tiene valor 1
+#False tiene valor 0
 if False == 0:
     print("False = 0")
 if True == 1:
