@@ -1,0 +1,8 @@
+#True = 1 y False = 0
+print(True + True)
+print(2*False - True)
+print(2*True + True)
+if not True == 0 + False:
+    print("False")
+if not not True == 1*True:
+    print("True")
