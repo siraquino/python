@@ -25,3 +25,7 @@ a = 12
 b = 23
 print("La Suma es: ", b+a)
 #........................................................
+#Cuarta forma de solución
+print("Programa que suma el numero 12 y el numero 23")
+print("La Suma es: ", 12+23)
+#........................................................
