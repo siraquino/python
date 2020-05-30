@@ -2,7 +2,7 @@
 
 #......................................................
 # Ejercicio resuelto N004
-# programa: Se desea cuanto es la multiplicación de 1234 por 4321
+# programa: Se desea saber cuanto es la multiplicación de 1234 por 4321
 # 
 print("Programa N004: Calcular la multiplicación de 1234 por 4321")
 numero_1 = 1234
