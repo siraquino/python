@@ -1,4 +1,4 @@
-# Ejercicios resueltos del 001 al 005
+# Ejercicios resueltos del 001 al 003
 
 #......................................................
 # Ejercicio resuelto N001
