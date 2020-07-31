@@ -1,6 +1,6 @@
 # Ejercicios resueltos del 035 al 038
 
-# Los ejercicios del 035 al 038 Ejercicios con Menor que >
+# Los ejercicios del 035 al 038 Ejercicios son con Menor que >
 #......................................................
 
 # Ejercicio resuelto N035
@@ -11,8 +11,8 @@ print("El resultado es: ", menor_que)
 print()
 #...................................................
 # Ejercicio resuelto N036
-# Problema: Resolver menor_que = 55 < 550 y visulizar el resultado
-# asignando. Ahora asignarle los valores 55 y 550 a dos variables    
+# Problema: Resolver menor_que = 55 < 550 y visulizar el resultado.
+# Ahora asignarle los valores 55 y 550 a dos variables    
 print("Programa N036: menor_que = 55 < 550 y visulizar el resultado")
 x = 55
 y = 550
@@ -29,7 +29,7 @@ print()
 #...................................................
 # Ejercicio resuelto N038
 # Problema: Resolver xx = 550 < 50 y visulizar el resultado
-# asignando. Ahora asignarle los valores 550 y 50 a dos variables    
+# Ahora asignarle los valores 550 y 50 a dos variables.    
 print("Programa N038: xx = 550 < 50 y visulizar el resultado")
 xx = 550
 yy = 50

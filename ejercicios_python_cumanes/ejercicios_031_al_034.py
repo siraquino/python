@@ -1,6 +1,6 @@
 # Ejercicios resueltos del 031 al 034
 
-# Los ejercicios del 031 al 034 Ejercicios con Mayor que >
+# Los ejercicios del 031 al 034 Ejercicios son con Mayor que >
 #......................................................
 
 # Ejercicio resuelto N031
@@ -11,8 +11,8 @@ print("El resultado es: ",a)
 print()
 #...................................................
 # Ejercicio resuelto N032
-# Problema: Resolver a = 120 > 40 y visulizar el resultado
-# asignando. Ahora asignarle los valores 120 y 40 a dos variables    
+# Problema: Resolver a = 120 > 40 y visulizar el resultado.
+# Ahora asignarle los valores 120 y 40 a dos variables.    
 print("Programa N032: a = 120 > 40 y visulizar el resultado")
 x = 120
 y = 40
@@ -28,8 +28,8 @@ print("El resultado es: ",a)
 print()
 #...................................................
 # Ejercicio resuelto N034
-# Problema: Resolver a = 40 > 120 y visulizar el resultado
-# asignando. Ahora asignarle los valores 40 y 120 a dos variables    
+# Problema: Resolver a = 40 > 120 y visulizar el resultado.
+# Ahora asignarle los valores 40 y 120 a dos variables.    
 print("Programa N034: a = 40 > 120 y visulizar el resultado")
 x = 40
 y = 120
