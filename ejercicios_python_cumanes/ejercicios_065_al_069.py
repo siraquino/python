@@ -74,7 +74,7 @@ print(cinco)
 #..............................................
 # Primero cópialos como están escritos, luego intenta modificar sus valores para practicar.
 # A medida que practiquemos la creatividad se va desarrollando. La creatividad siempre ha
-# estado, tan solo debemos desarrollarla, formatecerla y ponerla a nuestra disposición.
+# estado, tan solo debemos desarrollarla, fortalecerla y ponerla a nuestra disposición.
 # Cuando avancemos verás otras formas de generar números más eficiente. Estos los generamos
 # con los conocimientos que tenemos hasta el momento.
 #Rafael Aquino / junio-2020 / pythoncumanes
