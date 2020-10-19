@@ -1,7 +1,4 @@
-# Ejercicios resueltos del 1001 al 105
-# Ejercicios input
-#.................................................
-
+# Ejercicios resueltos del 101 al 105
 
 #.................................................
 # Ejercicio resuelto N101
