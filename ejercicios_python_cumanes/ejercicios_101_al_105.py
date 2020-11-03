@@ -37,7 +37,7 @@ print(es)
 # Problema: Calcular el Valor absoluto de un número
 print()
 print("-"*40)
-print("Programa N101: Redondear un número")
+print("Programa N104: Redondear un número")
 print("-"*40)
 
 r = float(input('Introduzca número decimal: '))
@@ -45,7 +45,7 @@ r = float(input('Introduzca número decimal: '))
 print('El Valor redondeado de', r, 'es',round(r))
 #..............................................
 # Ejercicio resuelto N105
-# Problema:Ayuda de python
+# Ayuda de python
 
 #Entra en la ayuda
 #help()
