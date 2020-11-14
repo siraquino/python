@@ -1,4 +1,4 @@
-# Ejercicios resueltos del 111 al 115
+# Ejercicios resueltos del 111 al 114
 # Trabajaremos con Funciones creadas por nosotros 
 #.................................................
 # Ejercicio resuelto N111
