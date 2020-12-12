@@ -12,6 +12,7 @@ print("-"*40)
 def saludar():
     print("Saludo desde la funcion") # el cuerpo de la función está indentado 
 
+
 saludar() # Llamada de la función
 
 #.................................................
@@ -25,6 +26,7 @@ print("-"*40)
 
 def sumar():
     print(2+3)
+
 
 sumar()
 #.................................................
