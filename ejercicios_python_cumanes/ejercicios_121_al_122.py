@@ -1,4 +1,4 @@
-# Ejercicios resueltos del 121 al 125
+# Ejercicios resueltos del 121 al 122
 # Trabajaremos con Funciones creadas por nosotros
 # Return y docstring 
 #.................................................
