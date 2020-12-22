@@ -1,4 +1,4 @@
-# Ejercicios resueltos del 115 al 119
+# Ejercicios resueltos del 115 al 120
 # Trabajaremos con Funciones creadas por nosotros
 # Parámetros - Argumentos 
 #.................................................
@@ -8,15 +8,14 @@ print()
 print("-"*40)
 print("Programa N115: crear una función que muestre un saludo personalizado")
 print("-"*40)
-
 #definición de la función
 def mensaje(nombre): #nombre es el Parámetro
     print("Hola " + nombre)  
 
 
 mensaje("Rafael") # Llamada de la función con Argumento
-#Como ejercicio lee el nombre desde el teclado y llama la función
-#para que funcione con nombres distintos
+#Como ejercicio lee el nombre de la persona desde el teclado
+# y realiza el llamado de la función
 #.................................................
 
 # Ejercicio resuelto N116
