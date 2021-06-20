@@ -34,7 +34,7 @@ print("-"*40)
 n = int(input('Introduzca el número: '))
 
 print("El Opuesto es: ", -1*n)
-Intenta hacerlo usando abs(n)
+#Intenta hacerlo usando abs(n)
 #.................................................
 
 # Ejercicio resuelto N133
